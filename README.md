@@ -59,11 +59,11 @@ Enter number of students: 3
 
 Student 1
 Enter Name: Dharani
-Enter Marks: 67
+_ Enter Marks: 67
 
 Student 2
 Enter Name: Raju
-Enter Marks: 90
+_ Enter Marks: 90
 
 Student 3
 Enter Name: Rani
