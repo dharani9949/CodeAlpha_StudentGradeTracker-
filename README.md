@@ -74,7 +74,7 @@ Enter Marks: 99
 ========== STUDENT SUMMARY REPORT ==========
 
 ```text
-========== STUDENT SUMMARY REPORT ==========
+
 
 Name : Dharani | Marks : 67
 Name : Raju    | Marks : 90
@@ -97,11 +97,9 @@ Total Students : 3
 
 ---
 
-## Author
-```text
+
 ## Author
 
 - **Name:** Nalam.Dharani Lakshmi Tejaswini
 - **Roll Number:** 23491A0541
 - **College:** QIS College Of Engineering and Technology
-```
